@@ -1,0 +1,13 @@
+print ("Welcome to the Bank Of Python")
+print ("Please state your FULL name.")
+name = str(input())
+print ("Welcome", name)
+print ("How much would you like to deposit today?")
+deposit = float(input())
+print ("*Computer go BRRR*", deposit)
+print ("has been placed into your bank.")
+print ("Do you need something else>")
+reply1 = str(input())
+print ("Well what is it")
+print ("Go.. Just leave?")
+
